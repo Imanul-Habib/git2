@@ -1,2 +1,2 @@
-#this is the newbug2
+# THIS IS NEWBUG2
 #i hope this has conflict
